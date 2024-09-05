@@ -46,4 +46,3 @@ MongoDB connection closed
 ## License
 
 Licensed under MIT.
-```
