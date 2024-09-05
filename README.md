@@ -24,7 +24,7 @@ This Node.js script connects to a MongoDB database, processes data from the `Hol
 
 3. Ensure the `server.js` file has the correct collection name and date field:
    ```js
-   const collectionName = 'HoldingTaxClientInfos';  // Update if needed
+   const collectionName = 'yourCollectionName';  // Update if needed
    ```
 
 ## Usage
